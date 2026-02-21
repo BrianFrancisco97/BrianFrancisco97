@@ -1,104 +1,142 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
+<h1 align="center">Brian Francisco</h1>
 
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/brianfrancisco1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-  </a>
-  <a href="https://github.com/BrianFrancisco97">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hey 👋 I'm Brian Francisco</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-Full Stack Developer & Product Builder.<br><br>
-
-🚀 Creator of <strong>City Office</strong> — Business Management Platform<br>
-📦 Creator of <strong>City Stock</strong> — Inventory & Stock Control System<br>
-🧠 Focused on building scalable, production-ready systems<br>
-🌍 Open to opportunities<br>
-⚡ I build real products — not just features
+<p align="center">
+  Software Engineer • SaaS Builder • Business Systems Architect
 </p>
 
-###
-
-<h3 align="left">🛠 Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-</div>
-
-###
-
-<h3 align="left">🏗 What I Build</h3>
-
-<p align="left">
-• Custom Business Systems<br>
-• Financial & Operational Dashboards<br>
-• Internal Tools & Admin Panels<br>
-• Scalable Web Applications<br>
-• Secure Backend Architectures<br>
+<p align="center">
+  Building scalable systems focused on real-world business operations.
 </p>
 
-###
+---
 
-<h3 align="left">🔥 My Focus</h3>
+# 🚀 About Me
 
-<p align="left">
-Clean architecture • Secure authentication • Data integrity • Production deployment • Long-term scalability
+I design and build complete business systems — from database architecture to production-ready interfaces.
+
+My focus is not just writing code, but engineering scalable solutions that solve operational and financial problems.
+
+- Backend architecture & API design
+- Business logic modeling
+- Database structure & relational integrity
+- Production-ready UI systems
+- Cloud deployment
+
+---
+
+# 🏢 City Office — Business Management Platform
+
+Enterprise-level business management system designed for operational control, financial tracking and performance analysis.
+
+Built to centralize company operations into a single scalable platform.
+
+## 🔹 Core Capabilities
+
+- Financial dashboard with KPI tracking
+- Revenue & expense management
+- Client management
+- Product control
+- Operational overview
+- Secure authentication (JWT-based)
+- Scalable backend architecture
+
+## 🛠 Tech Stack
+
+React • Node.js • Express • PostgreSQL • REST API • Cloud Deployment
+
+---
+
+## 📸 System Preview
+
+<p align="center">
+  <img src="./assets/city-office/city-office-login.png" width="900"/>
+  <img src="./assets/city-office/city-office-welcome.png" width="900"/>
+  <img src="./assets/city-office/city-office-dashboard.png" width="900"/>
+  <img src="./assets/city-office/city-office-financial.png" width="900"/>
 </p>
 
-###
+---
 
-<h3 align="left">🚀 Featured Projects</h3>
+# 📦 City Stock — Inventory Management System
 
-<div align="left">
+Complete inventory and stock control system built for operational efficiency and business scalability.
 
-<h4>🏢 City Office — Business Management Platform</h4>
-<p>
-Complete business management system with financial control, dashboard analytics, client management and operational tracking.
-Built with scalable backend architecture and production-ready deployment.
+Designed to manage product lifecycle, stock movement and receiving workflows.
+
+## 🔹 Core Capabilities
+
+- Real-time stock monitoring
+- Low stock alerts
+- Receiving management workflow
+- Inventory movement tracking
+- Structured product registration
+- Secure user authentication
+- Modular backend structure
+
+## 🛠 Tech Stack
+
+React • Express • PostgreSQL • RESTful API • Cloud Deployment
+
+---
+
+## 📸 System Preview
+
+<p align="center">
+  <img src="./assets/city-stock/city-stock-login.png" width="900"/>
+  <img src="./assets/city-stock/city-stock-dashboard.png" width="900"/>
+  <img src="./assets/city-stock/city-stock-inventory.png" width="900"/>
+  <img src="./assets/city-stock/city-stock-receiving.png" width="900"/>
+  <img src="./assets/city-stock/city-stock-receiving-modal.png" width="900"/>
 </p>
 
-<h4>📦 City Stock — Inventory & Stock Control</h4>
-<p>
-Inventory and stock control platform designed for small and mid-sized businesses.
-Includes stock movement tracking, reporting system and secure authentication.
-</p>
+---
 
-</div>
+# 🏗 Engineering Principles
 
-###
+These systems were built following production-level engineering standards:
 
-<h3 align="left">📫 Let's Connect</h3>
+- Modular architecture (Controller / Service / Repository)
+- Clear separation of concerns
+- Normalized relational database structure
+- Secure authentication & authorization flow
+- Reusable components & scalable frontend structure
+- Clean folder organization
+- Business-oriented domain modeling
 
-<p align="left">
-If you're looking for someone who builds complete, scalable systems — let's talk.
+---
+
+# 📈 What I Build
+
+I specialize in:
+
+- SaaS platforms
+- Business management systems
+- Inventory & operational control tools
+- Financial tracking dashboards
+- Custom internal systems for companies
+
+---
+
+# 🌍 Career Focus
+
+Currently expanding opportunities internationally and open to:
+
+- Backend Developer roles
+- Full Stack Engineering positions
+- SaaS product development
+- Business systems architecture
+
+---
+
+# 📬 Contact
+
+Feel free to connect:
+
+- LinkedIn: (add your link here)
+- Email: (add your email here)
+
+---
+
+<p align="center">
+  Built with precision. Engineered for scale.
 </p>
