@@ -40,17 +40,17 @@ Enterprise-level business management system designed for operational control, fi
 
 ## 🛠 Tech Stack
 
-React • Node.js • Express • PostgreSQL • REST API • Cloud Deployment
+React • Node.js • Express • PostgreSQL • REST API • Cloud Deployment  
 
 ---
 
 ## 📸 System Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-login.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-welcome.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-dashboard.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-financial.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Office%201.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Office%202.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Office%203.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Office%204.png" width="900"/>
 </p>
 
 ---
@@ -71,18 +71,17 @@ Complete inventory and stock control system built for operational efficiency and
 
 ## 🛠 Tech Stack
 
-React • Express • PostgreSQL • RESTful API • Cloud Deployment
+React • Express • PostgreSQL • RESTful API • Cloud Deployment  
 
 ---
 
 ## 📸 System Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-login.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-dashboard.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-inventory.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-receiving.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-receiving-modal.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Stock%201.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Stock%202.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Stock%203.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/City%20Stock%204.png" width="900"/>
 </p>
 
 ---
@@ -102,7 +101,7 @@ These systems were built following production-level engineering standards:
 
 # 🌍 Open to opportunities
 
-Backend Developer • Full Stack Engineer • SaaS Product Development
+Backend Developer • Full Stack Engineer • SaaS Product Development  
 
 ---
 
