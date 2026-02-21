@@ -16,11 +16,11 @@ I design and build complete business systems — from database architecture to p
 
 My focus is not just writing code, but engineering scalable solutions that solve operational and financial problems.
 
-- Backend architecture & API design
-- Business logic modeling
-- Database structure & relational integrity
-- Production-ready UI systems
-- Cloud deployment
+- Backend architecture & API design  
+- Business logic modeling  
+- Database structure & relational integrity  
+- Production-ready UI systems  
+- Cloud deployment  
 
 ---
 
@@ -28,17 +28,15 @@ My focus is not just writing code, but engineering scalable solutions that solve
 
 Enterprise-level business management system designed for operational control, financial tracking and performance analysis.
 
-Built to centralize company operations into a single scalable platform.
-
 ## 🔹 Core Capabilities
 
-- Financial dashboard with KPI tracking
-- Revenue & expense management
-- Client management
-- Product control
-- Operational overview
-- Secure authentication (JWT-based)
-- Scalable backend architecture
+- Financial dashboard with KPI tracking  
+- Revenue & expense management  
+- Client management  
+- Product control  
+- Operational overview  
+- Secure authentication (JWT-based)  
+- Scalable backend architecture  
 
 ## 🛠 Tech Stack
 
@@ -49,10 +47,10 @@ React • Node.js • Express • PostgreSQL • REST API • Cloud Deployment
 ## 📸 System Preview
 
 <p align="center">
-  <img src="./assets/city-office/city-office-login.png" width="900"/>
-  <img src="./assets/city-office/city-office-welcome.png" width="900"/>
-  <img src="./assets/city-office/city-office-dashboard.png" width="900"/>
-  <img src="./assets/city-office/city-office-financial.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-login.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-welcome.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-dashboard.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-office/city-office-financial.png" width="900"/>
 </p>
 
 ---
@@ -61,17 +59,15 @@ React • Node.js • Express • PostgreSQL • REST API • Cloud Deployment
 
 Complete inventory and stock control system built for operational efficiency and business scalability.
 
-Designed to manage product lifecycle, stock movement and receiving workflows.
-
 ## 🔹 Core Capabilities
 
-- Real-time stock monitoring
-- Low stock alerts
-- Receiving management workflow
-- Inventory movement tracking
-- Structured product registration
-- Secure user authentication
-- Modular backend structure
+- Real-time stock monitoring  
+- Low stock alerts  
+- Receiving management workflow  
+- Inventory movement tracking  
+- Structured product registration  
+- Secure user authentication  
+- Modular backend structure  
 
 ## 🛠 Tech Stack
 
@@ -82,11 +78,11 @@ React • Express • PostgreSQL • RESTful API • Cloud Deployment
 ## 📸 System Preview
 
 <p align="center">
-  <img src="./assets/city-stock/city-stock-login.png" width="900"/>
-  <img src="./assets/city-stock/city-stock-dashboard.png" width="900"/>
-  <img src="./assets/city-stock/city-stock-inventory.png" width="900"/>
-  <img src="./assets/city-stock/city-stock-receiving.png" width="900"/>
-  <img src="./assets/city-stock/city-stock-receiving-modal.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-login.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-dashboard.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-inventory.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-receiving.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/BrianFrancisco97/BrianFrancisco97/main/assets/city-stock/city-stock-receiving-modal.png" width="900"/>
 </p>
 
 ---
@@ -95,45 +91,25 @@ React • Express • PostgreSQL • RESTful API • Cloud Deployment
 
 These systems were built following production-level engineering standards:
 
-- Modular architecture (Controller / Service / Repository)
-- Clear separation of concerns
-- Normalized relational database structure
-- Secure authentication & authorization flow
-- Reusable components & scalable frontend structure
-- Clean folder organization
-- Business-oriented domain modeling
+- Modular architecture (Controller / Service / Repository)  
+- Clear separation of concerns  
+- Normalized relational database structure  
+- Secure authentication & authorization flow  
+- Reusable components & scalable frontend structure  
+- Business-oriented domain modeling  
 
 ---
 
-# 📈 What I Build
+# 🌍 Open to opportunities
 
-I specialize in:
-
-- SaaS platforms
-- Business management systems
-- Inventory & operational control tools
-- Financial tracking dashboards
-- Custom internal systems for companies
-
----
-
-# 🌍 Career Focus
-
-Currently expanding opportunities internationally and open to:
-
-- Backend Developer roles
-- Full Stack Engineering positions
-- SaaS product development
-- Business systems architecture
+Backend Developer • Full Stack Engineer • SaaS Product Development
 
 ---
 
 # 📬 Contact
 
-Feel free to connect:
-
-- LinkedIn: (add your link here)
-- Email: (add your email here)
+- 🔗 LinkedIn: [brianfrancisco1](https://www.linkedin.com/in/brianfrancisco1/)  
+- 📧 Email: [brianfrancisco141197@gmail.com](mailto:brianfrancisco141197@gmail.com)  
 
 ---
 
