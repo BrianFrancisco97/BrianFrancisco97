@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  React • Node.js • PostgreSQL • REST API • Cloud Architecture
+  React • Node.js • PostgreSQL • TypeScript • REST API • Cloud Architecture
 </p>
 
 ---
@@ -53,22 +53,37 @@ Inventory & Stock Management System
 
 ---
 
+## 🔹 Aurora Finance  
+Financial Dashboard & Reporting System  
+
+📌 KPI-driven financial dashboard  
+📌 Revenue & expense management (CRUD)  
+📌 Data visualization with charts  
+📌 Excel (.xlsx) export  
+📌 PDF (.pdf) export  
+📌 Local-first architecture  
+
+**Repository:**  
+👉 https://github.com/BrianFrancisco97/aurora-finance  
+
+---
+
 # 🏗 Engineering Approach
 
 - Controller → Service → Repository pattern  
 - Clear separation of concerns  
 - Normalized relational database modeling  
 - API-first backend design  
+- Modular and scalable frontend architecture  
 - Business-domain driven structure  
-- Scalable frontend architecture  
 
 ---
 
 # 🌍 Open To
 
-Backend Engineering  
 Full Stack Development  
 SaaS Product Development  
+Frontend Engineering  
 
 ---
 
