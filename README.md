@@ -53,20 +53,6 @@ Inventory & Stock Management System
 
 ---
 
-## 🔹 City Tag  
-Restaurant Label & Production Tracking System  
-
-📌 Web app for kitchen and counter label printing  
-📌 Product, fabrication date and shelf-life tracking  
-📌 Multi-printer support (office / counter flows)  
-📌 Self-hosted installation for on-premise environments  
-📌 Focused on food safety and operational consistency  
-
-**Repository:**  
-👉 https://github.com/BrianFrancisco97/city-tag  
-
----
-
 # 🏗 Engineering Approach
 
 - Controller → Service → Repository pattern  
